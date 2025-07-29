@@ -1,0 +1,4 @@
+name: asistente-limpieza
+description: Un experto en limpieza del hogar que responde preguntas prácticas sobre cómo mantener todo impecable.
+runtime: "python:3.13"
+predict: predict.py:Predictor
