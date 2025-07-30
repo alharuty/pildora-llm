@@ -217,3 +217,5 @@ output = replicate.run(
 )
 print(output)
 ```
+
+[Link al PowerPoint](https://www.canva.com/design/DAGsrJuP2z0/AiwahqX1nv-tVdiJxiyWYA/edit?utm_content=DAGsrJuP2z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
