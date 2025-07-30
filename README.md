@@ -2,19 +2,18 @@
 
 Hoy vamos a hablar sobre un tema muy relevante en el mundo de la inteligencia artificial: el despliegue de LLMs. 
 
-Nos centraremos en qué significa desplegar este tipo de modelos, por qué es importante, y exploraremos algunas de las plataformas más utilizadas para realizar este despliegue. El objetivo es entender cómo llevar neustros modelos de desarrollo a producción forma eficiente y hacerlos accesibles ya sea por los usuarios finales como para nuestra propia empresa.
+Nos centraremos en qué significa desplegar este tipo de modelos, por qué es importante, y exploraremos algunas de las plataformas más utilizadas para realizar este despliegue. El objetivo es entender cómo llevar nuestros modelos de desarrollo a producción de forma eficiente y hacerlos accesibles ya sea por los usuarios finales como para nuestra propia empresa.
 
 
 ## ¿Qué son los LLMs?
 
-Las LLMs (Large Language Models o Modelos de Lenguaje de Gran Tamaño) son sistemas de inteligencia artificial entrenados con enormes cantidades de texto para comprender y generar lenguaje humano de manera natural. Estos modelos, como GPT (Generative Pre-trained Transformer), pueden realizar tareas como responder preguntas, redactar textos, traducir idiomas o resumir información. Funcionan prediciendo la siguiente palabra en una oración según el contexto, lo que les permite mantener conversaciones coherentes y realizar tareas complejas relacionadas con el lenguaje.
+Los LLMs (Large Language Models o Modelos de Lenguaje de Gran Tamaño) son sistemas de inteligencia artificial entrenados con enormes cantidades de texto para comprender y generar lenguaje humano de manera natural. Estos modelos, como GPT (Generative Pre-trained Transformer), pueden realizar tareas como responder preguntas, redactar textos, traducir idiomas o resumir información. Funcionan prediciendo la siguiente palabra en una oración según el contexto, lo que les permite mantener conversaciones coherentes y realizar tareas complejas relacionadas con el lenguaje.
 
 ## ¿Qué es un despliegue?
 
 El despliegue (deployment) en machine learning o desarrollo de software es el proceso de llevar un modelo o aplicación desde un entorno de desarrollo a un entorno de producción, donde puede ser utilizado por usuarios reales. Implica preparar el sistema para que sea accesible, escalable y estable, ya sea a través de una API, una aplicación web o un servicio en la nube. Es un paso crucial para poner en práctica los modelos entrenados y permitir su uso en el mundo real.
 
 <img src="./capturas/FLUJO.png" width="200">
-
 
 ## 3 opciones de despliegue
 
