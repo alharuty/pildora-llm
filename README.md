@@ -5,7 +5,7 @@ Hoy vamos a hablar sobre un tema muy relevante en el mundo de la inteligencia ar
 Nos centraremos en qué significa desplegar este tipo de modelos, por qué es importante, y exploraremos algunas de las plataformas más utilizadas para realizar este despliegue. El objetivo es entender cómo llevar neustros modelos de desarrollo a producción forma eficiente y hacerlos accesibles ya sea por los usuarios finales como para nuestra propia empresa.
 
 
-## ¿Qué son las LLMs?
+## ¿Qué son los LLMs?
 
 Las LLMs (Large Language Models o Modelos de Lenguaje de Gran Tamaño) son sistemas de inteligencia artificial entrenados con enormes cantidades de texto para comprender y generar lenguaje humano de manera natural. Estos modelos, como GPT (Generative Pre-trained Transformer), pueden realizar tareas como responder preguntas, redactar textos, traducir idiomas o resumir información. Funcionan prediciendo la siguiente palabra en una oración según el contexto, lo que les permite mantener conversaciones coherentes y realizar tareas complejas relacionadas con el lenguaje.
 
